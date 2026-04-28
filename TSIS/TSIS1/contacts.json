@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Kate",
+        "email": "87001112233",
+        "group": null,
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Mike",
+        "email": "87774445566",
+        "group": null,
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Kate",
+        "email": null,
+        "group": null,
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Kate",
+        "email": null,
+        "group": null,
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Mike",
+        "email": null,
+        "group": null,
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Mike",
+        "email": null,
+        "group": null,
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Bob",
+        "email": "87058889900",
+        "group": null,
+        "phones": [
+            null
+        ]
+    }
+]
